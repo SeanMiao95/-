@@ -1,6 +1,6 @@
-中文分词工具哪家强？
-A basic introduction of Chinese word segmentation tools.
+结巴中文分词工具的基本使用。
+A basic introduction of jieba.
 
-目前包含 Include:
+结巴包含功能 function:
 
-  1：jieba
+  1：分词 segmentation
